@@ -1,0 +1,17 @@
+.mainField{
+    width: 700px;
+    height: 500px;
+    background-color: pink;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.mainField .text{
+    font-size: 32px;
+    font-family: 'Courier New', Courier, monospace;
+    color: tomato;
+}
