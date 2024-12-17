@@ -1,12 +1,13 @@
 .mainField{
-    width: 700px;
-    height: 500px;
+    width: 800px;
+    height: 80vh;
     background-color: pink;
     border-radius: 20px;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
+    padding: 30px;
 }
 
 
